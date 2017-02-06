@@ -41,6 +41,8 @@ There are some standard types of naming conventions you'll often see:
 * `snake_case`
 * `kebab-case`
 
+A few notes on my naming conventions:
+
 * For project folders I use `TitleCase` (`Portfolio`, `LinkedVerse`)
 * For other utility folders I add an underscore (`_`) at the beginning (`_Notes`, `_Tools`).
 * For larger projects that require more organization, I use numbered folders based on each phase of design (`01_Research`, `02_Design`, `03_Build`)
