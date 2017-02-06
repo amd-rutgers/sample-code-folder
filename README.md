@@ -1,4 +1,4 @@
-My `Code` folder
+My `Work` folder
 ====================
 
 This is an example of how you might organize your work. There are millions of ways to do this, and I encourage you to find the one that works best for you!
@@ -8,7 +8,7 @@ One thing to keep in mind, what we usually call *folders* are called *directorie
 Folder Structure
 ----------------
 
-So here's what the structure of my `Code` folder looks like:
+So here's what the structure of my `Work` folder looks like:
 
 ```
 2B
